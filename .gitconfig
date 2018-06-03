@@ -1,0 +1,8 @@
+[user]
+	name = VisualDudek
+	email = dudek.v@gmail.com
+[core]
+	editor = vim
+[alias]
+	hist = log --oneline --graph --decorate --all
+
