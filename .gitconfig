@@ -3,6 +3,8 @@
 	email = dudek.v@gmail.com
 [core]
 	editor = vim
+[diff]
+	tool = vimdiff
 [alias]
 	hist = log --oneline --graph --decorate --all
 	########
