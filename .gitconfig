@@ -3,6 +3,7 @@
 	email = dudek.v@gmail.com
 [core]
 	editor = vim
+	excludefile = ~/.gitignore_global
 [push]
 	default = simple
 [diff]
