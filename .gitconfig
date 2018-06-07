@@ -10,6 +10,7 @@
 	tool = vimdiff
 [alias]
 	hist = log --oneline --graph --decorate --all
+	lg = !git --no-pager log --oneline --graph --decorate --all
 	########
 	ls = ls-files
 
