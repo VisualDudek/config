@@ -101,3 +101,4 @@ source $ZSH/oh-my-zsh.sh
 alias zshconfig="vi ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias sshnginx="ssh -v -o ServerAliveInterval=60 root@nginx"
+alias pls="sudo"
